@@ -7,7 +7,7 @@
 
 A modular Telegram Python bot running on python3 with an sqlalchemy database.
 
-Can be found on telegram as [GroupManager](https://t.me/tg_groupmanagerbot).
+Can be found on telegram as [SEKERROBO](https://t.me/Seker_robot).
 
 Alternatively, [find me on telegram](https://t.me/ATOPBEGAR)! (Keep all support questions in the support chat, where more people can help you.)
 
