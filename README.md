@@ -14,7 +14,7 @@ Alternatively, [find me on telegram](https://t.me/ATOPBEGAR)! (Keep all support 
 You can also join our support group [here!](https://t.me/Gymglassheroes)
 
 # Group
-[Join Discuss Group](https://t.me/giveaways_24hrs)
+[Join Discuss Group](https://t.me/Gymglassheroes)
 
 # Report error
 Report your problem along with your name to [this person](https://t.me/ATOPBEGAR)
